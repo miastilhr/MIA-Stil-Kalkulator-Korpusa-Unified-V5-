@@ -1,0 +1,42 @@
+{
+  "materijali": [
+    { "sifra": "W970", "naziv": "W970 ST9 Bijela", "cijena_eur_po_m2": 10.90 },
+    { "sifra": "H3303", "naziv": "H3303 ST10 Hrast Arlington", "cijena_eur_po_m2": 14.50 },
+    { "sifra": "U708", "naziv": "U708 ST9 Siva svijetla", "cijena_eur_po_m2": 12.30 },
+    { "sifra": "HDF-001", "naziv": "HDF Leđa 3mm", "cijena_eur_po_m2": 4.20 }
+  ],
+  "abs_trake": [
+    { "sifra": "ABS-22x1-BIJ", "naziv": "ABS 22×1 Bijela", "cijena_eur_po_m": 0.35 },
+    { "sifra": "ABS-22x2-HRA", "naziv": "ABS 22×2 Hrast", "cijena_eur_po_m": 0.55 },
+    { "sifra": "ABS-28x1-SIVA", "naziv": "ABS 28×1 Siva", "cijena_eur_po_m": 0.45 }
+  ],
+  "materijali_fronta": [
+    { "sifra": "FR-W1100", "naziv": "W1100 ST9 Bijela fronta", "cijena_eur_po_m2": 16.90 },
+    { "sifra": "FR-H1145", "naziv": "H1145 ST10 Hrast prirodni fronta", "cijena_eur_po_m2": 19.40 }
+  ],
+  "abs_trake_fronta": [
+    { "sifra": "F-ABS-22x1-BIJ", "naziv": "Fronta ABS 22×1 Bijela", "cijena_eur_po_m": 0.48 },
+    { "sifra": "F-ABS-23x2-HRA", "naziv": "Fronta ABS 23×2 Hrast", "cijena_eur_po_m": 0.70 }
+  ],
+  "usluge": [
+    { "sifra": "REZ-001", "naziv": "Rezanje ploča (€/m)", "cijena_eur_po_m": 0.45 },
+    { "sifra": "KANT-001", "naziv": "Kantiranje (€/m)", "cijena_eur_po_m": 0.60 }
+  ],
+  "okov": [
+    { "art_nr": "OK-1001", "naziv": "Pant 110° (par)", "dobavljac": "Blum", "jedinica": "par", "cijena_eur": 6.20 },
+    { "art_nr": "OK-1002", "naziv": "Vodilica L450 potp. izvlačenje", "dobavljac": "Hettich", "jedinica": "par", "cijena_eur": 12.90 },
+    { "art_nr": "OK-1003", "naziv": "Podizač za frontu (set)", "dobavljac": "Blum", "jedinica": "set", "cijena_eur": 24.50 }
+  ],
+  "oprema": [
+    { "art_nr": "OP-2001", "naziv": "Ručkica 160 mm", "dobavljac": "Hettich", "jedinica": "kom", "cijena_eur": 3.20 },
+    { "art_nr": "OP-2002", "naziv": "Noga podesiva H100", "dobavljac": "Rehau", "jedinica": "kom", "cijena_eur": 1.10 },
+    { "art_nr": "OP-2003", "naziv": "Spojnica minifix", "dobavljac": "Häfele", "jedinica": "kom", "cijena_eur": 0.18 }
+  ],
+  "dodatci": [
+    { "sifra": "DD-001", "naziv": "Konzultacije / rad", "jedinica": "po kom", "cijena_eur": 10.00, "vrsta": "po kom" },
+    { "sifra": "DD-002", "naziv": "Profil / letvica", "jedinica": "po m", "cijena_eur": 2.40, "vrsta": "po m" },
+    { "sifra": "DD-003", "naziv": "Punilo / panel", "jedinica": "po m2", "cijena_eur": 15.00, "vrsta": "po m2" }
+  ]
+}
+
+
